@@ -89,11 +89,5 @@ jsproxy_config({
     'https://www.baidu.com/img/baidu_jgylogo3.gif': {
       replace: 'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png'
     },
-    'https://www.pornhub.com/': {
-      redir: 'https://www.pornhub.com/'
-    },
-    'http://haha.com/': {
-      content: 'Hello World'
-    },
   }
 })
