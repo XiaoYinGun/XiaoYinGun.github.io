@@ -86,7 +86,7 @@ jsproxy_config({
    * URL 自定义处理（设计中）
    */
   url_handler: {
-    'https://www.baidu.com/img/bd_logo1.png': {
+    'https://www.baidu.com/img/baidu_jgylogo3.gif': {
       replace: 'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png'
     },
     'https://www.pornhub.com/': {
